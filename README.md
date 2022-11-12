@@ -1,10 +1,11 @@
 # rcamwm.github.io
 
-ETH-USD.csv
-https://www.kaggle.com/datasets/varpit94/ethereum-data
+* https://www.kaggle.com/datasets/varpit94/ethereum-data
+  * ETH-USD.csv
 
-GDP-per-Capita-Worldbank.csv 
-https://ourworldindata.org/grapher/gdp-per-capita-worldbank?time=latest
+* https://ourworldindata.org/grapher/gdp-per-capita-worldbank?time=latest
+  * GDP-per-Capita-Worldbank.csv 
 
-NASDAQ.csv
-https://nasdaq.com/market-activity/index/comp/historical 
+* https://nasdaq.com/market-activity/index/comp/historical 
+  * NASDAQ.csv
+  * SP500.csv
