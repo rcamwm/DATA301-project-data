@@ -1,4 +1,4 @@
-# rcamwm.github.io
+# DATA301-project-data
 
 * https://www.kaggle.com/datasets/varpit94/ethereum-data
   * ETH-USD.csv
