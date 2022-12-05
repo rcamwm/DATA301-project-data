@@ -8,6 +8,9 @@
 
 * https://www.imf.org/external/datamapper/NGDP_RPCH@WEO/OEMDC/ADVEC/WEOWORLD/SRB
   * GDP Changes.csv
+  
+* https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?year_high_desc=true
+  * GDP Values Worldwide.csv
 
 * https://nasdaq.com/market-activity/index/comp/historical 
   * NASDAQ.csv
